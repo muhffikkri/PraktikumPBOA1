@@ -1,3 +1,10 @@
+/* Nama File    : Dosen.java
+ * Deskripsi    : berisi atribut dan method dalam class Dosen
+ * Pembuat      : Muhammad Fikri / 24060124130069
+ * Tanggal      : 2 Maret 2026
+ */
+
+
 public class Dosen {
     // Atribut
     private String nip;

@@ -1,3 +1,9 @@
+/* Nama File    : MataKuliah.java
+ * Deskripsi    : berisi atribut dan method dalam class MataKuliah
+ * Pembuat      : Muhammad Fikri / 24060124130069
+ * Tanggal      : 2 Maret 2026
+ */
+
 public class MataKuliah {
     // Atribut
     String idMatKul;

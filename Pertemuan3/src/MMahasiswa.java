@@ -1,3 +1,9 @@
+/* Nama File    : MMahasiswa.java
+ * Deskripsi    : berisi atribut dan method dalam class MMahasiswa
+ * Pembuat      : Muhammad Fikri / 24060124130069
+ * Tanggal      : 2 Maret 2026
+ */
+
 public class MMahasiswa {
     public static void main(String[] args) {
         // Membuat objek mata kuliah
