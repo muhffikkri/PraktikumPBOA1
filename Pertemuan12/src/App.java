@@ -1,3 +1,9 @@
+/* Nama File    : App.java
+ * Deskripsi    : Kelas untuk implementasi lambda
+ * Pembuat      : Muhammad Fikri / 24060124130069
+ * Tanggal      : 25 Mei 2026
+ */ 
+
 import java.util.*;
 
 public class App {
@@ -12,8 +18,5 @@ public class App {
         mahasiswaMap.put(4, "Didi");
         
         mahasiswaMap.forEach((nim, nama) -> System.out.println("Nim : " + String.valueOf(nim) + " Nama : " + nama));
-
-
-        
     }
 }
